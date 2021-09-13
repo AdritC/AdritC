@@ -1,0 +1,22 @@
+{
+    "name": "peace-bot",
+    "version": "1.0.0",
+    "description": "Peace bot a discord bot which makes your server more peaceful!",
+    "main": "index.js",
+    "scripts": {
+        "devStart": "nodemon index.js"
+    },
+    "author": "Adrit Chaudhary",
+    "license": "ISC",
+    "dependencies": {
+        "discord-button-pages": "^1.1.9",
+        "discord-xp": "^1.1.16",
+        "discord.js": "^13.1.0-dev.1628424171.47d2ef3",
+        "ffmpeg-static": "^4.4.0",
+        "opusscript": "^0.0.8",
+        "ytdl-core": "^4.9.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
